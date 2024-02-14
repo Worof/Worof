@@ -17,8 +17,8 @@ I'm a passionate developer/software engineer/data scientist (choose what fits yo
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=node.js)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -26,7 +26,7 @@ I'm a passionate developer/software engineer/data scientist (choose what fits yo
 
 ## 📈 GitHub Stats
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Worof GitHub Stats](https://github-readme-stats.vercel.app/api?username=Worof&show_icons=true&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 
