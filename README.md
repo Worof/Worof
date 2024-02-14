@@ -1,17 +1,5 @@
 # Hi there, I'm Worof 👋
 
-## 👨‍💻 About Me
-I'm a passionate developer/software engineer who loves to explore new technologies and leverage them to solve real-world problems. I'm proficient in a wide range of programming languages and technologies including Python, JavaScript, C, C++, C#, HTML, CSS, SQL, MATLAB, and Solidworks, and I'm also diving deeper into DevOps to streamline and improve the software development process.
-
-- 🔭 I’m currently working on various personal and collaborative projects.
-- 🌱 I’m currently learning more about advanced DevOps practices.
-- 👯 I’m looking to collaborate on open-source projects and innovative software solutions.
-- 🤔 I’m looking for help with cutting-edge technologies and best practices in software development.
-- 💬 Ask me about anything related to my fields of interest.
-- 📫 How to reach me: Feel free to connect with me on LinkedIn.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm always on the lookout for new learning opportunities and love tackling challenging problems.
-
 ## 🚀 Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
