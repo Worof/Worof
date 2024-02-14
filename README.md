@@ -9,10 +9,13 @@
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks)
-![Solidworks](https://img.shields.io/badge/-Solidworks-333333?style=flat&logo=solidworks)
+![SOLIDWORKS](https://img.shields.io/badge/-Solidworks-333333?style=flat&logo=solidworks)
 ![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=devops)
+![VR Development](https://img.shields.io/badge/-VR%20Development-333333?style=flat&logo=virtual-reality)
 
 ## 📈 GitHub Stats
 
