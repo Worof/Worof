@@ -22,7 +22,7 @@
 ![VR Development](https://img.shields.io/badge/-VR%20Development-333333?style=flat&logo=virtual-reality)
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Worof&theme=dark&hide_border=true&border_radius=4.8&card_width=550)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Worof&theme=dark&hide_border=true&border_radius=4.8&card_width=700)](https://git.io/streak-stats)
 
 
 ## 🏆 GitHub Trophies
