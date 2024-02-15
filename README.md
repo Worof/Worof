@@ -1,5 +1,8 @@
 # Hi there, I'm Worof 👋
-<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlyaDU5YnUwZDlpdDNuamI3Mjcwa2NzeG9kNGxxaHhlOXdmNDJoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+</div>
+
 
 ## 🚀 Languages and Tools:
 
