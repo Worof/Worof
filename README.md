@@ -30,7 +30,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Worof&theme=nord&column=3&margin-w=15&margin-h=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Worof&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔗 Connect with Me
 
