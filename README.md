@@ -17,7 +17,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks)
-![SOLIDWORKS](https://img.shields.io/badge/-Solidworks-333333?style=flat&logo=solidworks)
 ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash&logoColor=white)
