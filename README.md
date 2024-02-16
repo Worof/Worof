@@ -28,11 +28,8 @@
 ## 📈 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Worof&theme=dark&hide_border=true&border_radius=4.8&card_width=800)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Worof&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Languages Count
-
-This section highlights the diversity of programming languages I use in my projects. For a detailed breakdown of the languages and their usage in my repositories, click on the following link:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Worof&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
