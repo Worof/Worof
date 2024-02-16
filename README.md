@@ -18,8 +18,12 @@
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks)
 ![SOLIDWORKS](https://img.shields.io/badge/-Solidworks-333333?style=flat&logo=solidworks)
+![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash&logoColor=white)
 ![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=devops)
 ![VR Development](https://img.shields.io/badge/-VR%20Development-333333?style=flat&logo=virtual-reality)
+
 
 ## 📈 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Worof&theme=dark&hide_border=true&border_radius=4.8&card_width=800)](https://git.io/streak-stats)
@@ -38,6 +42,5 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/worof49245?s=35)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/worofyousef)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:worofyousef@gmail.com)
-
 
 
