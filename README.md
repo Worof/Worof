@@ -29,7 +29,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Worof&theme=dark&hide_border=true&border_radius=4.8&card_width=800)](https://git.io/streak-stats)
 
 
-## 🌐 Languages Count
+## 🌐 Languages Used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Worof&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -45,5 +45,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/worof49245?s=35)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/worofyousef)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:worofyousef@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=Worof&color=black)
 
 
