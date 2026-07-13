@@ -47,7 +47,7 @@ Arabic (Native) · English (Professional)
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/worof-ahmed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/worof-ahmed-%F0%9F%8D%89-a8301b215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:worofyousef@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /></a>
   <a href="https://github.com/Worof" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
 </p>
