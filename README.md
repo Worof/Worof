@@ -56,7 +56,7 @@ Arabic (Native) · English (Professional)
 
 ### 📊 GitHub Stats
 
-![Worof's GitHub stats](https://github-readme-stats.vercel.app/api?username=Worof&show_icons=true&theme=default)
+![Worof's GitHub stats](https://github-readme-stats.vercel.app/api?username=Worof&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Worof&layout=compact)
 
 <p align="center"><i>Learning, building, and deploying — one model at a time.</i></p>
