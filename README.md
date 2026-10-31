@@ -44,7 +44,7 @@ I'm focused on **intelligent, agent-driven systems** that automate the repetitiv
       <h3>☕ Hadota: AI Barista App</h3>
       <p>An animated Egyptian <i>qahwagi</i> AI barista that recommends a custom coffee blend and brewing recipe based on the user's taste. Arabic-first (RTL) with voice, captions, and lip-synced character animation.</p>
       <p><img src="https://img.shields.io/badge/AI%20Agent-Conversational-8b5cf6?style=flat-square"/> <img src="https://img.shields.io/badge/Arabic%20ar--EG-RTL-0ea5e9?style=flat-square"/> <img src="https://img.shields.io/badge/Voice%20%2B%20Animation-f59e0b?style=flat-square"/></p>
-      <a href="https://github.com/Worof/Hadota"><b>View repository →</b></a>
+      <a href="[https://github.com/Worof/Hadota](https://github.com/Worof/Hadota-AI-Barista-App.git)"><b>View repository →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏆 Fahman: Arabic Early-Reading AI Tutor</h3>
