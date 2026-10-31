@@ -99,7 +99,7 @@ I'm focused on **intelligent, agent-driven systems** that automate the repetitiv
     <td colspan="2" valign="top">
       <h3>🦾 RealitySimSuit: Graduation Project (2024)</h3>
       <p>Body-support exoskeleton developed for educational use in rehabilitation and training, at Kafr El-Sheikh University.</p>
-      <a href="https://dev.azure.com/RealitySimSuits"><b>View project →</b></a>
+      <a href="[https://dev.azure.com/RealitySimSuits](https://dev.azure.com/Reality-SimSuits/Reality-SimSuit1)"><b>View project →</b></a>
     </td>
   </tr>
 </table>
