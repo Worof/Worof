@@ -58,7 +58,7 @@ I'm focused on **intelligent, agent-driven systems** that automate the repetitiv
       <h3>🎮 GTA V Multi-Agent AI Analytics System</h3>
       <p>Orchestrated agents (Retrieval, Schema, Analysis, Action) that ingest sales data plus live FX and Wikipedia APIs, then autonomously deliver a bilingual (EN/AR) PDF report, a live dashboard, and an emailed summary. Zero paid LLM calls, with z-score anomaly detection and an evaluation harness.</p>
       <p><img src="https://img.shields.io/badge/Multi--Agent-8b5cf6?style=flat-square"/> <img src="https://img.shields.io/badge/Local%20LLM-0ea5e9?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></p>
-      <a href="https://github.com/Worof/GTA-V-Multi-Agent-AI-System"><b>View repository →</b></a>
+      <a href="https://github.com/Worof/-GTA-V-Worldwide-Sales-Multi-Agent-AI-System.git"><b>View repository →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>💬 Marketing Knowledge Assistant (RAG)</h3>
